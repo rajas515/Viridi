@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d536c54.css",
+    "main.js": "/static/js/main.731be429.js",
+    "static/media/thumbnail.png": "/static/media/thumbnail.41270798bd7abb96edb2.png",
+    "static/media/Shop Tree.png": "/static/media/Shop Tree.1337b9766966e977160a.png",
+    "static/media/Text Logo.png": "/static/media/Text Logo.68ebb430c7e29897ccce.png",
+    "static/media/Logo.png": "/static/media/Logo.ed69a3a5111cf91ef9ea.png",
+    "static/media/bottom.png": "/static/media/bottom.e20bd5d8d3460a2205d6.png",
+    "index.html": "/index.html",
+    "main.2d536c54.css.map": "/static/css/main.2d536c54.css.map",
+    "main.731be429.js.map": "/static/js/main.731be429.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d536c54.css",
+    "static/js/main.731be429.js"
+  ]
+}
