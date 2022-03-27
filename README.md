@@ -26,4 +26,5 @@ With the currency earned through posting and receiving upvotes, users can spend 
 ### Minor Changes
 - Sort By
 - Post Reactions
-
+## Overview of the Project
+https://www.youtube.com/watch?v=BY_MK2_Y-4I
